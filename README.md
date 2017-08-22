@@ -1,6 +1,6 @@
 # Spam Filtering based on Naive Bayes Classication
 
-In this tutorial, we will implement a simple machine learning algorithm to classify emails (Spam or Not Spam aka Ham) using Scikit-learn. We are going to implement a Spam filtering classifier based on Multinomial Naive Bayes Algorithm
+We will implement a simple machine learning algorithm to classify emails (Spam or Not Spam aka Ham) using Scikit-learn. We are going to implement a Spam filtering classifier based on Multinomial Naive Bayes Algorithm
 
 
 ## Prerequisites
